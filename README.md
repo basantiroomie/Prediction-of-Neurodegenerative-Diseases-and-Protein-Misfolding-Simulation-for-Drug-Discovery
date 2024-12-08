@@ -22,5 +22,4 @@ This project presents a groundbreaking hybrid quantum AI model designed to simul
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/hybrid-quantum-ai.git
-   cd hybrid-quantum-ai
+   git clone https://github.com/basantiroomie/Prediction-of-Neurodegenerative-Diseases-and-Protein-Misfolding-Simulation-for-Drug-Discovery.git
